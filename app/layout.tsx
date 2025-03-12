@@ -13,9 +13,9 @@ export const metadata: Metadata = {
   title: "Jhon Jairo Diaz Juris | Portfolio",
   description: "Portfolio de Jhon Jairo Diaz Juris - Desarrollador Frontend",
   icons: {
-    icon: "/logo.webp"
-  }
-}
+    icon: "/favicon.ico",
+  },
+};
 
 export default function RootLayout({
   children,
@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es" suppressHydrationWarning>
+      
       <head />
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>

@@ -21,15 +21,15 @@ const projects = [
     description: "Implementamos el uso de una API para a traves de un filtro poder acceder a la informacion de la serie de Rick and Morty",
     image: "/rickandmory.png",
     tags: ["React", "Redux", "API", "JavaScript"],
-    demoUrl: "https://github.com/Zorgthh/Rick-y-Morty",
-    repoUrl: "https://animated-florentine-be9884.netlify.app/",
+    demoUrl: "https://animated-florentine-be9884.netlify.app/",
+    repoUrl: "https://github.com/Zorgthh/Rick-y-Morty",
   },
   {
     title: "WeatherApp",
     description: "Una app sencilla que recoje informacion del usuario y le da datos acerca de su ubicacion",
     image: "/weather.png",
     tags: ["React", "API", "JavaScript"],
-    demoUrl: "#demo-social",
+    demoUrl: "https://weather-app-by-zorgth.netlify.app/",
     repoUrl: "#repo-social",
   },
   {

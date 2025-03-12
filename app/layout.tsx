@@ -12,6 +12,9 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Jhon Jairo Diaz Juris | Portfolio",
   description: "Portfolio de Jhon Jairo Diaz Juris - Desarrollador Frontend",
+  icons: {
+    icon: "/logo.webp"
+  }
 }
 
 export default function RootLayout({

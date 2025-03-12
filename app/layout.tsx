@@ -13,7 +13,9 @@ export const metadata: Metadata = {
   title: "Jhon Jairo Diaz Juris | Portfolio",
   description: "Portfolio de Jhon Jairo Diaz Juris - Desarrollador Frontend",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon.ico", // O "/favicon.png" si usas PNG
+    shortcut: "/favicon.ico",
+    apple: "/favicon.png",
   },
 };
 

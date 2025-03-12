@@ -18,7 +18,7 @@ export default function Hero() {
     // Simulación de descarga de archivo
     const link = document.createElement("a")
     link.href = "/cv-jhon-diaz.pdf" // En un caso real, esta sería la ruta al archivo
-    link.download = "CV-Jhon-Jairo-Diaz-Juris.pdf"
+    link.download = "/Jhon Jairo Diaz CV"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)

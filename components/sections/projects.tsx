@@ -30,7 +30,7 @@ const projects = [
     image: "/weather.png",
     tags: ["React", "API", "JavaScript"],
     demoUrl: "https://weather-app-by-zorgth.netlify.app/",
-    repoUrl: "#repo-social",
+    repoUrl: "https://github.com/Zorgthh/Weather-App",
   },
   {
     title: "Elimelec S.A.S",

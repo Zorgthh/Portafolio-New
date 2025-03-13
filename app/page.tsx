@@ -7,7 +7,7 @@ import { ThemeIndicator } from "@/components/sections/theme-indicator"
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen w-full overflow-x-hidden">
       <Hero />
       <About />
       <Skills />
@@ -15,6 +15,5 @@ export default function Home() {
       <Contact />
       <ThemeIndicator />
     </main>
-  )
+  );
 }
-

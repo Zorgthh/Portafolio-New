@@ -10,8 +10,8 @@ export default function Home() {
     <main className="min-h-screen w-full overflow-x-hidden">
       <Hero />
       <About />
-      <Skills />
       <Projects />
+      <Skills />
       <Contact />
       <ThemeIndicator />
     </main>

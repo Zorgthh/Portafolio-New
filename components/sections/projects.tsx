@@ -9,6 +9,24 @@ import { toast } from "@/hooks/use-toast"
 
 const projects = [
   {
+    title: "Lading Page",
+    description: "Lading Page para un cliente de psicologia",
+    image: "/psicologa.png",
+    tags: ["React","Next.js","Tailwind","Firebas","JavaScript"],
+    demoUrl: "https://valentina-arango.netlify.app/",
+    repoUrl: "https://github.com/Zorgthh/V2-ValentaPage",
+  },
+  
+  {
+    title: "Analytics",
+    description: "Un dashboard con estadisticas de temperatura y humedad",
+    image: "/anlytcs.png",
+    tags: ["React","Next.js","Tailwind","Firebas","JavaScript"],
+    demoUrl: "https://project-analitics.netlify.app/",
+    repoUrl: "https://github.com/Zorgthh/analystics",
+  },
+  
+  {
     title: "UserCrud",
     description: "Un UserCRUD de usuarios donde guardaba la informacion en la api de la Academia",
     image: "/usecrud.png",

@@ -46,7 +46,7 @@ const projects = [
     title: "WeatherApp",
     description: "Una app sencilla que recoje informacion del usuario y le da datos acerca de su ubicacion",
     image: "/weather.png",
-    tags: ["React", "API", "JavaScript"],
+    tags: ["React", "TailwindCSS" ,"API", "JavaScript"],
     demoUrl: "https://weather-app-by-zorgth.netlify.app/",
     repoUrl: "https://github.com/Zorgthh/Weather-App",
   },

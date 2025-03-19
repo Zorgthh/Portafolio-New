@@ -34,7 +34,7 @@ export default function About() {
           >
             <div className="absolute inset-0 border-2 border-primary rounded-lg transform translate-x-4 translate-y-4"></div>
             <img
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-23%20at%202.12.56%20PM-evni1tMc5Mq3pY5BG9ktGephaInRUf.jpeg"
+              src="/perfil.jpg"
               alt="Jhon Jairo Diaz Juris"
               className="relative z-10 rounded-lg object-cover w-full h-full"
             />

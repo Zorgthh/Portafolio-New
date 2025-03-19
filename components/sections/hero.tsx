@@ -122,7 +122,7 @@ export default function Hero() {
               <div className="absolute inset-2 rounded-full bg-background"></div>
               <div className="absolute inset-0 flex items-center justify-center">
                 <img
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-02-23%20at%202.12.56%20PM-evni1tMc5Mq3pY5BG9ktGephaInRUf.jpeg"
+                  src="/perfil.jpg"
                   alt="Jhon Jairo Diaz Juris"
                   className="h-[350px] w-[350px] rounded-full object-cover object-center"
                 />
